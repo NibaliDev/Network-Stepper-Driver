@@ -17,7 +17,7 @@
 
  based of blink sketch by Tom Igoe, 25 Nov 2012
  
- Made by NibaliDev Engineering, Karlskoga, Örebro Län, 
+ Made by NibaliDev Engineering, 
  Monarchy of Sweden, European Union. 
  
  */
