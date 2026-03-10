@@ -25,7 +25,7 @@
 #include <WiFi.h> 
 
 const char* ssid     = "Hemma"; 
-const char* password = "3r1kC@r1"; 
+const char* password = ""; 
 
 #define stepPin 12 
 #define dirPin 14 
